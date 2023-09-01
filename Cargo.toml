@@ -1,0 +1,9 @@
+[package]
+name = "hkv"
+version = "0.0.0"
+edition = "2021"
+license = "MIT"
+description = "A human-redable KV store with database-like performance characteristics"
+repository = "https://github.com/chordtoll/hkv"
+
+[dependencies]
